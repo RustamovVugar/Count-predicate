@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\bin\Debug\netcoreapp3.1\ListBook.exe
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\bin\Debug\netcoreapp3.1\ListBook.deps.json
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\bin\Debug\netcoreapp3.1\ListBook.runtimeconfig.json
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\bin\Debug\netcoreapp3.1\ListBook.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\bin\Debug\netcoreapp3.1\ListBook.dll
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\bin\Debug\netcoreapp3.1\ListBook.pdb
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\obj\Debug\netcoreapp3.1\ListBook.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\obj\Debug\netcoreapp3.1\ListBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\obj\Debug\netcoreapp3.1\ListBook.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\obj\Debug\netcoreapp3.1\ListBook.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\obj\Debug\netcoreapp3.1\ListBook.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\obj\Debug\netcoreapp3.1\ListBook.dll
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\obj\Debug\netcoreapp3.1\ListBook.pdb
+C:\Users\Administrator\Desktop\Task2\ListBook\ListBook\obj\Debug\netcoreapp3.1\ListBook.genruntimeconfig.cache
